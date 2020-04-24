@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/SBALDOCK/Code-201-Reading-Notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### This site is a repository of reading notes collected from Code 201
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Table Of Contents
 
-### Markdown
+[Introductory HTML and Javascript](class-01.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[HTML Text, CSS Introduction, and Basic Javascript Instructions](class-02.md)
 
-```markdown
-Syntax highlighted code block
+[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 
-# Header 1
-## Header 2
-### Header 3
+[HTML Links, CSS Layout, JS Functions](class-04.md)
 
-- Bulleted
-- List
+[HTML Images, CSS Color & Text](class-05.md)
 
-1. Numbered
-2. List
+[JS Object Literals & The DOM](class-06.md)
 
-**Bold** and _Italic_ and `Code` text
+[HTML Tables & JS Constructor Functions](class-07.md)
 
-[Link](url) and ![Image](src)
-```
+[Forms and Events](class-09.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[More CSS Layout](class-08.md)
 
-### Jekyll Themes
+[JS Debugging](class-10.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SBALDOCK/Code-201-Reading-Notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Assorted Topics](class-11.md)
 
-### Support or Contact
+[Docs for the HTML Canvas Element & Chart](class-12.md)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Local Storage](class-13.md)
+
+[CSS Transforms, Transitions, and Anmiations](class-14.md)
+
+[What Google learned about teams](class-15.md)
+
+
