@@ -2,4 +2,6 @@
 
 ### What Google Learned About Teams
 
+#### What Google Learned From Its Quest to Build the Perfect Team
+
 [Main Page](README.md)
