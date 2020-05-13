@@ -2,8 +2,6 @@
 
 ### CSS Transforms, Transitions, and Animations
 
-#### What Google Learned From Its Quest to Build the Perfect Team
-
 #### CSS Transforms
 
 #### CSs Transitions & Animations
